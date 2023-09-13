@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/yechan7071/"/></a>
 
 ## Studying Network ✅
-dreaming a Network Engineer.
+Dreaming a Network Engineer.
 - 🐢I'm currently learning everything 🥲
 - 📑I'm useing [cisco packet tracer](https://www.netacad.com/courses/packet-tracer) for studying
 - 🥅My goal is to work as a Network Engineer in Singapore
