@@ -28,7 +28,7 @@ Dreaming a Network Engineer.
 ## Notion 📝
 Visit my Notion page!
 
-[My Notion Page](https://www.notion.so/456f5db15f8b445283929e53e9444301?v=26653fa3af324e2e9d67ca43ddee0a84&pvs=4)
+[Aiden Kim's Notion Page](https://www.notion.so/456f5db15f8b445283929e53e9444301?v=26653fa3af324e2e9d67ca43ddee0a84&pvs=4)
 
 ---------
 
