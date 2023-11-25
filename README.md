@@ -25,7 +25,7 @@ Dreaming a Network Engineer.
 - 📑I'm useing [cisco packet tracer](https://www.netacad.com/courses/packet-tracer), [vmware](https://ko.wikipedia.org/wiki/VM%EC%9B%A8%EC%96%B4) for studying
 - 🥅My goal is to work as a Network Engineer in Singapore
 - 👽fun fact: I love playing fps games but I'm sooooooo bad at it 😆
-- 🏆I have won a gran turismo race once 😜
+- 🏆I have competed a gran turismo race once 😜
  
 ## Notion 📝
 Visit my Notion page!
