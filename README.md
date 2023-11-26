@@ -34,6 +34,6 @@ Visit my Notion page!
 
 ---------
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aiden0415&hide=contribs,prs&show_icons=true&theme=테마)
+![Aiden's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aiden0415&hide=contribs,prs&show_icons=true&theme=테마)
 
 
