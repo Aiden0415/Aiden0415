@@ -2,7 +2,7 @@
 
 ## Network Engineer:
 
-### You can talk me with
+### You can talk me by
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/yechan7071/"/></a>
 
 ### I Studied 👇
@@ -22,7 +22,7 @@
 ## Studying Network ✅
 Dreaming a Network Engineer.
 - 🌱I'm currently learning everything 🥲
-- 📑I'm use [cisco packet tracer](https://www.netacad.com/courses/packet-tracer), [vmware](https://ko.wikipedia.org/wiki/VM%EC%9B%A8%EC%96%B4) for studying
+- 📑I use [cisco packet tracer](https://www.netacad.com/courses/packet-tracer), [vmware](https://ko.wikipedia.org/wiki/VM%EC%9B%A8%EC%96%B4) for studying
 - 🥅My goal is to work as a Network Engineer in Singapore
 - 👽fun fact: I love playing fps games but I'm sooooooo bad at it 😆
 - 🏆I have competed a gran turismo race once 😜
