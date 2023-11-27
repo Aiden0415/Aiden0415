@@ -22,7 +22,7 @@
 ## Studying Network ✅
 Dreaming a Network Engineer.
 - 🌱I'm currently learning everything 🥲
-- 📑I use [cisco packet tracer](https://www.netacad.com/courses/packet-tracer), [vmware](https://ko.wikipedia.org/wiki/VM%EC%9B%A8%EC%96%B4) for studying
+- 📑I use [cisco packet tracer](https://www.netacad.com/courses/packet-tracer), [vmware](https://ko.wikipedia.org/wiki/VM%EC%9B%A8%EC%96%B4) for study
 - 🥅My goal is to work as a Network Engineer in Singapore
 - 👽fun fact: I love playing fps games but I'm sooooooo bad at it 😆
 - 🏆I have competed a gran turismo race once 😜
