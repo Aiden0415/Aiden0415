@@ -26,6 +26,7 @@ Dreaming a Network Engineer.
 - 🥅My goal is to work as a Network Engineer in Singapore
 - 👽fun fact: I love playing fps games but I'm sooooooo bad at it 😆
 - 🏆I have competed a gran turismo race once 😜
+- 📢I also organized information about It-Network, so please pay a lot of attention! 😙
  
 ## Notion 📝
 Visit my Notion page!
